@@ -13,8 +13,8 @@
   "keywords": [],
   "engines": {
     "node": "12.18.3"
-  }
-  "author": "",
+  },
+  "author": "Josh Barnes",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
