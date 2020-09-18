@@ -1,0 +1,12 @@
+{"message":"Bookmark with id 253270ce-1397-435d-9544-2c144195b4ee created","level":"info"}
+{"message":"Bookmark with id c0dd1d41-6e4e-4c44-a2a0-16fc860f8aaf created","level":"info"}
+{"message":"Rating is required","level":"error"}
+{"message":"Bookmark with id 4636073a-7e6e-421f-8df9-328989877c4c created","level":"info"}
+{"message":"Description is required","level":"error"}
+{"message":"Bookmark with id a8ab7f58-78e4-4414-b0b6-cab58d4a4284 created","level":"info"}
+{"message":"Bookmark with id dummy-id2 not found.","level":"error"}
+{"message":"Bookmark with id dummy-id2 not found.","level":"error"}
+{"message":"Bookmark with id 5cf94836-a8c8-4486-af93-b9b953875d81 created","level":"info"}
+{"message":"Bookmark with id dummy-id2 not found.","level":"error"}
+{"message":"Bookmark with id 8b22c1f9-bdc8-4e4b-b3f4-d7e9dcd83a9c created","level":"info"}
+{"message":"Bookmark with id dummy-id deleted.","level":"info"}
