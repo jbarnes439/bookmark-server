@@ -18,9 +18,9 @@ app.use(morgan(morganOption));
 app.use(helmet());
 app.use(cors());
 app.use(express.json());
-app.use(validateBearerToken);
+// app.use(validateBearerToken);
 
-app.use('/bookmark', bookmarkRouter);
+app.use(bookmarkRouter);
 
 
 // if 4 parameters are specified express knows it's an error handler
